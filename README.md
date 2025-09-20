@@ -31,7 +31,9 @@ It uses an ESP32-CAM and PIR shield for motion detection, but has been modified 
 
 **Wiring Notes**
 - PIR interrupt pin relocated to avoid serial monitor interference.  
-- Power routed through step-up regulator for stable 5V operation.  
+- Power routed through step-up regulator for stable 5V operation.
+
+ [wiring diagram goes here]
 
 **Future Improvements**
  ☐ Add timestamps to captured photos  
