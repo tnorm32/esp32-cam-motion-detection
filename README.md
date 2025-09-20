@@ -34,10 +34,10 @@ It uses an ESP32-CAM and PIR shield for motion detection, but has been modified 
 - Power routed through step-up regulator for stable 5V operation.  
 
 **Future Improvements**
- [ ] Add timestamps to captured photos  
- [ ] Integrate an external antenna for longer WiFi range  
- [ ] Implement AP (Access Point) mode:  
- [ ] Use an SD card for configuration storage (e.g., access point, camera settings such as flash, resolution, frame rate)  
- [ ] Enable local saving of photos to the SD card  
+ ☐ Add timestamps to captured photos  
+ ☐ Integrate an external antenna for longer WiFi range  
+ ☐ Implement AP (Access Point) mode:  
+ ☐ Use an SD card for configuration storage (e.g., access point, camera settings such as flash, resolution, frame rate)  
+ ☐ Enable local saving of photos to the SD card  
 
 
