@@ -36,6 +36,7 @@ It uses an ESP32-CAM and PIR shield for motion detection, but has been modified 
  [wiring diagram goes here]
 
 **Future Improvements**
+
  ☐ Add timestamps to captured photos  
  ☐ Integrate an external antenna for longer WiFi range  
  ☐ Implement AP (Access Point) mode:  
